@@ -15,7 +15,6 @@ Cybersecurity graduate focused on AI and automation. I build systems that turn t
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aayush3xe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=Aayush3xe&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
